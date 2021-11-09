@@ -1,0 +1,65 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+
+body{
+    font-family: fantasy;
+    background-color:rgb(117, 112, 112);
+}
+nav{
+    height: 10%;
+    width: 100%;
+    background-color:rgba(20, 1, 1, 0.164);
+}
+.logo{
+    margin: 10px;
+    padding-left: 20px;
+    font-size: 35px;
+    font-family: monospace;
+    color:red;
+    left: 6px;
+}
+.jojo{
+    float: right;
+    margin:0%;
+}
+li{
+    display: inline-block;
+    margin:10px;
+    padding-right: 60px;
+    align-self: center;
+}
+a{
+    color:white;
+    font-size: 18px;
+    text-transform: uppercase;
+    padding: 7px;
+    border-radius: 3px;  
+}
+img{
+    width: 500px;
+    height: 300px;
+    margin: 20px;
+    float: inline-start;
+}
+.about{
+    text-align: center;
+}
+.home{
+    text-align: center;
+    color: brown;
+}
+.contact{
+    text-decoration-line: underline;
+    color: #345623;
+    text-transform: uppercase;
+}
+.hen{
+    color:black;
+}
+
+
+
+    
